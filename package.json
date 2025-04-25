@@ -64,7 +64,7 @@
     "passport-custom": "^1.1.1",
     "passport-jwt": "^4.0.0",
     "passport-local": "^1.0.0",
-    "primeflex": "^3.2.1",
+    "primeflex": "^4.0.0",
     "primeicons": "^5.0.0",
     "primereact": "^8.3.0",
     "prismjs": "^1.28.0",
