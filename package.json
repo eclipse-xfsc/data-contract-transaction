@@ -69,7 +69,7 @@
     "primereact": "^8.3.0",
     "prismjs": "^1.28.0",
     "rdf-parse": "^2.0.0",
-    "rdf-serialize": "^2.0.0",
+    "rdf-serialize": "^4.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.34.0",
